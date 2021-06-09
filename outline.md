@@ -13,3 +13,5 @@ NB: Be careful of your details before commiting
 Documentation of API
 
 Clean up and implementation of fixes
+
+Passport Recovery: Create a page where a user can input the email address and they would get a message in their email instantly.
